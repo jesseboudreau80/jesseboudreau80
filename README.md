@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @jesseboudreau80 formally KA Jesse Boudreau aka the PAWSitive Leadership Junkie...formerly know as "The Credit Guy"...and hopefully known for changing the world and making it a better place :)
-- 👀 I’m interested in TECH...I fell in love with coding from the CLI to build my own apps and softwares...I use AI to increase productivity both at work and personally.
-- 🌱 I’m currently learning how to create my own home network and soon plan to offer self-hosted Baas and Saas products with full local control.
-- 💞️ I’m looking to collaborate on Baas and Saas projects. I am also interested in learning cybersecurity protocols.
-- 📫 How to reach me: my website (http://jesseboudreau.com) should always have an updated contact record but ultimately can email jesse@jesseboudreau.com.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: my home is a Zoo 😲 🐊 with 3 dogs (used to have 6), 7 parrots, and well my bff cat Milo stays in his own apartment but is coming home soon :)
+# 👋 Hey there! I'm Jesse Boudreau
 
-<!---
-jesseboudreau80/jesseboudreau80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🐾 Passionate pet industry veteran turned self-taught SaaS builder, AI experimenter, and the guy who might just send you on a **free vacation** for booking a call.
+
+I specialize in:
+- 🧠 Compliance + operations for pet & veterinary centers
+- 🛠️ Building tools with **Flask, FastAPI, and AI agents**
+- 🧪 Merging leadership training with automation & gamified learning
+- 🎣 Creating fun side projects like PlayHooky (a fishing-themed dating app) and internal dashboards for licensing + inspection compliance
+
+🔗 **Visit me at:** [jesseboudreau.com](https://jesseboudreau.com)  
+💌 Or email me: [jesse@jesseboudreau.com](mailto:jesse@jesseboudreau.com)
+
+---
+
+## Current Projects
+- `PAWSitiveOps`: An all-in-one compliance + productivity platform for pet centers  
+- `FlaskAlpha`: My base template system for Flask SaaS apps  
+- `AI Agent Dashboard`: Lightweight internal tool to automate cover letters, compliance workflows, and more  
+- `Free Vacation Page`: A secret landing zone for giveaways (yes, really)
+
+---
+
+## 🐶 Personal Fun Fact
+My house is a literal zoo: 3 dogs, 7 parrots, and a cat named Milo with his own apartment. Welcome to the madness.
+
+---
+
+## 👇 Let's build something wild together.

@@ -22,8 +22,8 @@ I specialize in:
 ---
 
 ## 🐶 Personal Fun Fact
-My house is a literal zoo: 2 dogs, 6 parrots, and a cat named Milo with his own apartment. Welcome to the madness.
+My house is a literal zoo: 3 dogs since we adopted the cutest Frenchie, Princess Poppy, 6 parrots, and a cat named Milo with his own apartment. Welcome to the madness.
 
 ---
 
-## 👇 Let's build something wild together.
+##  Let's build something wild together.
